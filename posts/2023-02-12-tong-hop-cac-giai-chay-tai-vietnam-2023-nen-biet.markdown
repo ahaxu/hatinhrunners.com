@@ -2,6 +2,9 @@
 title: Tổng hợp các giải chạy tại Việt Nam năm 2023 mà bạn nên biết
 author: lk
 tags: hatinhrunners.com, hà tĩnh runner, vietnam race 2023
+description: Tổng hợp các giải chạy tại Việt Nam 2023 mà bạn nên biết
+cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
+keywords: giải chạy bộ
 ---
 
 

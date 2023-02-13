@@ -2,6 +2,9 @@
 title: Giới thiệu về hatinhrunners.com 
 author: lk
 tags: hatinhrunners.com, hà tĩnh runner, ha tinh marathon team
+description: Giới thiệu về Hà Tĩnh Runners
+cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
+keywords: ha tinh runners, ha tinh marathon team
 ---
 
 ## HATINH MARATHON TEAM là gì?
