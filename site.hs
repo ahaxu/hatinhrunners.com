@@ -79,6 +79,8 @@ main = hakyllWith config $ do
 
     match "templates/*" $ compile templateCompiler
 
+    mapM_ static ["humans.txt", "robots.txt"]
+
 
 postCtx :: Context String
 postCtx =
@@ -87,4 +89,12 @@ postCtx =
 
 postCtxWithTags :: Tags -> Context String
 postCtxWithTags tags = tagsField "tags" tags <> postCtx
+
+static :: Pattern -> Rules ()
+static f = match f $ do
+    route   idRoute
+    compile copyFileCompiler
+
+directory :: (Pattern -> Rules a) -> String -> Rules a
+directory act f = act $ fromGlob $ f ++ "/**"
 
