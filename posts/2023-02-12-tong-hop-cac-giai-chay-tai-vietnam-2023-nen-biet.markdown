@@ -56,7 +56,7 @@ Tháng 2 là thời điểm sau tết Nguyên Đán, do đó nhiều giải ch�
     - Cự ly: 5k - 10km - 21km
     - Website đăng kí: [https://timve365.vn/vi/bdrc-half-marathon-2023](https://timve365.vn/vi/bdrc-half-marathon-2023)
 
--FesTrival 2023 - Bình Thuận
+- FesTrival 2023 - Bình Thuận
     - Thời gian: 12/3
     - Cự ly: 5650 - 70.3
     - Website đăng kí: [https://stopandsports.com/viet-nam-festival-2023/](https://stopandsports.com/viet-nam-festival-2023/)
@@ -202,17 +202,17 @@ Tháng 2 là thời điểm sau tết Nguyên Đán, do đó nhiều giải ch�
     - Website: [https://racejungle.com/.../ha-giang-discovery-marathon-2022](https://racejungle.com/.../ha-giang-discovery-marathon-2022)
 
 - VPBank Hà Nội Marathon
-Thời gian: 15/10
-Cự ly: 5-10-21-42km
-Website: [https://hanoi-marathon.com/#races-register](https://hanoi-marathon.com/#races-register)
+    - Thời gian: 15/10
+    - Cự ly: 5-10-21-42km
+    - Website: [https://hanoi-marathon.com/#races-register](https://hanoi-marathon.com/#races-register)
 - Vietnam Jungle Marathon - Pù Luông
-Thời gian: 21/10
-Cự ly: 10-24-42-55-70km
-Website: [https://vietnamtrailseries.com/vi/jungle-marathon/](https://vietnamtrailseries.com/vi/jungle-marathon/)
+    - Thời gian: 21/10
+    - Cự ly: 10-24-42-55-70km
+    - Website: [https://vietnamtrailseries.com/vi/jungle-marathon/](https://vietnamtrailseries.com/vi/jungle-marathon/)
 - Long Bien Marathon
-Thời gian: 29/10
-Cự ly: 5-10-21-42km
-Website: [https://racevietnam.com/longbien-marathon-2023-63](https://racevietnam.com/longbien-marathon-2023-63)
+    - Thời gian: 29/10
+    - Cự ly: 5-10-21-42km
+    - Website: [https://racevietnam.com/longbien-marathon-2023-63](https://racevietnam.com/longbien-marathon-2023-63)
 
 ### THÁNG 11
 
