@@ -33,3 +33,5 @@ Anh chị em thử tham khảo xem hiệu quả đến đâu nhé.
 
 **HTMT-Team!**
 
+p/s: ACE có thể xem thêm về cách hít vào thở ra từ chuyên gia **Andrew Huberman** [tại đây](https://youtu.be/msGKrclcsbc) nhé (nhớ bật phụ đề nếu cần ạ)
+
