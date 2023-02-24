@@ -1,7 +1,7 @@
 ---
 title: Một số động tác khởi động cơ bản, trước lúc vào bài chạy.
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, khởi động
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, khởi động, bài tập
 description: Một số động tác khởi động cơ bản, trước lúc vào bài chạy.
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, khởi động

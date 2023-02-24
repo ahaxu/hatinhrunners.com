@@ -1,10 +1,10 @@
 ---
 title: THỞ TRONG LÚC CHẠY BỘ!!!
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ
+tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ, bài tập
 description: Thở lúc chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
-keywords: thở trong lúc chạy bộ, chạy bộ, thở, hà tĩnh runners
+keywords: thở trong lúc chạy bộ, chạy bộ, thở, hà tĩnh runners, bài tập
 ---
 
 **THỞ** (*hay THỢ - giọng Nghệ*) là một hành động vô thức, bất kỳ ai được sinh ra cũng tự biết thở mà không cần phải học, không cần người khác hướng dẫn.
