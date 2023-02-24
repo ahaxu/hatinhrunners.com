@@ -1,7 +1,7 @@
 ---
 title: TRANG PHỤC – GIÀY/DÉP TRONG CHẠY BỘ
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, trang phục chạy bộ
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, kiến thức chạy bộ
 description: Cơ cấu hệ thống bài tập trong tuần
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, kiến thức chạy bộ
