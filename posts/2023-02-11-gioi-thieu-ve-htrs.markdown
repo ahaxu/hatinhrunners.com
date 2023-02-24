@@ -1,6 +1,6 @@
 ---
 title: Giới thiệu về hatinhrunners.com 
-author: lk
+author: HTMT
 tags: hatinhrunners.com, hà tĩnh runner, ha tinh marathon team
 description: Giới thiệu về Hà Tĩnh Runners
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
