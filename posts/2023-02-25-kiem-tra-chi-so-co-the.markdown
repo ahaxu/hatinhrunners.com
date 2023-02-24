@@ -11,6 +11,9 @@ Lôôôôô, a lô, lại là Lãng tôi đây - hế hế 😃
 
 Hôm nay tôi lại mạn phép bàn một chút về trọng lượng cơ thể:
 
+
+<img src="../images/2023-02-25-ktra-chi-so-1.jpeg" alt="beta reduction" width="50%" height="50%">
+
 ```
 Béo => Đương nhiên chạy chậm
 Béo => Đương nhiên dễ gặp chấn thương hơn
@@ -37,9 +40,12 @@ Vậy làm sao để biết mình BÉO hay trọng lượng cơ thể như thế
 
 3. Vậy, trọng lượng như thế nào là chuẩn hay còn gọi là lý tưởng? (Có thể chạy đua)
 
-    * Xác định trọng lượng lý tưởng chủ yếu dựa vào lượng mỡ cơ thể
-    Vậy, xác định lượng mỡ cơ thể như thế nào?
+    <img src="../images/2023-02-25-ktra-chi-so-3.jpeg" alt="beta reduction" width="50%" height="50%">
+
+    * Xác định trọng lượng lý tưởng chủ yếu dựa vào lượng mỡ cơ thể.
+    Vậy, xác định lượng mỡ cơ thể như thế nào* ?
     => Xác định bằng tỷ lệ % trọng lượng mỡ cơ thể.
+
     => Cách tính: Xác định các chỉ số:
 
         - Giới tính (Gender): Chọn Male (Nam) hoặc Female (Nữ)
@@ -51,6 +57,8 @@ Vậy làm sao để biết mình BÉO hay trọng lượng cơ thể như thế
 
         Nhập hết các chỉ số có được vào các ô trong link bên dưới rồi bấm Calculate sẽ ra kết quả (Result) cạnh bên
         [https://www.calculator.net/body-fat-calculator.html](https://www.calculator.net/body-fat-calculator.html)
+
+        <img src="../images/2023-02-25-ktra-chi-so-4.jpeg" alt="beta reduction" width="50%" height="50%">
 
         Có kết quả đem đối chiếu với bảng thống kê liệt kê phần trăm trọng lượng mỡ cơ thể tối ưu để chạy đua được phân chia theo giới tính và nhóm tuổi (Ảnh đính kèm)
 
@@ -65,12 +73,15 @@ Vậy làm sao để biết mình BÉO hay trọng lượng cơ thể như thế
 
         **=> KẾT QUẢ: 18.6% => Béo như con heo &#128055; roài. huhu**
 
+<img src="../images/2023-02-25-ktra-chi-so-2.jpeg" alt="beta reduction" width="50%" height="50%">
+
 ## Kết luận:
 
    - Việc tính được tỷ lệ % mỡ cơ thể tối ưu hay trọng lượng lý tưởng để giúp chúng ta biết được có mục tiêu đưa cơ thể về các chỉ số chuẩn.
    - Tuy nhiên các chỉ số lý tưởng này không phải là điều kiện đủ để có thể đạt thành tích tốt khi đi race mà còn phụ thuộc rất nhiều yếu tố khác ví dụ như Dinh dưỡng, dáng chạy, giáo án tập luyện, chế độ nghỉ ngơi, tinh thần, thời tiết….vân vân và mây mây.
    - Nhưng nếu đạt được trọng lượng hay lượng mỡ cơ thể lý tưởng thì có lợi ích rất nhiều trong chạy bộ và đi race. Nhất là giảm nguy cơ chấn thương và còn chưa kể sẽ có dáng đẹp nè.
    - Còn làm sao có được trọng lượng lý tưởng thì ngoài chạy bộ ra, còn lại các bác…Gúc gồ dùm. Hoặc có thời gian sẽ post cho mọi người tham khảo thêm (À mà thôi, để BS dinh dưỡng họ còn kiếm đồng nuôi con :)))
+
 
 ### Chúc các đồng run bon chân và vui vẻ
 
