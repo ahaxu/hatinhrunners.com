@@ -27,7 +27,7 @@ main = hakyllWith config $ do
     -- build up tags
     tags <- buildTags "posts/*" (fromCapture "tags/*.html")
     tagsRules tags $ \tag pattern -> do
-      let title = "Posts with tag: \"" <> tag <> "\""
+      let title = "Bài viết cùng tag: \"" <> tag <> "\""
       route idRoute
       compile $ do
           posts <- recentFirst =<< loadAll pattern
