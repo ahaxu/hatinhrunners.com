@@ -1,7 +1,7 @@
 ---
 title: THỞ TRONG LÚC CHẠY BỘ!!!
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ, bài tập
+tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ, bài tập, HaTinhMarathonTeam
 description: Thở lúc chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: thở trong lúc chạy bộ, chạy bộ, thở, hà tĩnh runners, bài tập

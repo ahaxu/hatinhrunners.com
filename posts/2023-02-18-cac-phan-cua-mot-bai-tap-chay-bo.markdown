@@ -1,7 +1,7 @@
 ---
 title: Các phần của một bài tập!!!
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, HaTinhMarathonTeam
 description: Các phần của một bài tập!!!
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ

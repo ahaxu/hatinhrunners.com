@@ -1,7 +1,7 @@
 ---
 title: Cơ cấu hệ thống bài tập trong tuần
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, HaTinhMarathonTeam
 description: Cơ cấu hệ thống bài tập trong tuần
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập

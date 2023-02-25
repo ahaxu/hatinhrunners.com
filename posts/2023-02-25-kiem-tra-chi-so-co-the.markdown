@@ -1,7 +1,7 @@
 ---
 title: Kiểm tra chỉ số cơ thể
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ,HaTinhMarathonTeam
 description: Kiểm tra chỉ số cơ thể
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
