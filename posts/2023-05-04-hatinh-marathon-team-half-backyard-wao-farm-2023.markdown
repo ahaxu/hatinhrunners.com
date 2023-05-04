@@ -15,6 +15,8 @@ Giải chạy quy tụ gần 100 thành viên tham gia, bao gồm cả VĐV và 
 
 Sau một ngày thi đấu, 2 vận động viên là Nguyễn Thị Trà Giang, Phạm Đình Bảng đã giành được chiến thắng với số vòng chạy là 25 vòng (tương đương 84 km), đạt danh hiệu Queen, King.
 
+Giải cũng đã được báo <a href="http://daidoanket.vn/" target="_blank">Đại Đoàn Kết</a> hỗ trợ đưa tin, nhằm khuyến khích phong trào chạy bộ, thể thao, rèn luyện sức khoẻ tại bài viết <a href="http://daidoanket.vn/marathon-trao-luu-dep-cua-nhung-nguoi-tre-o-ha-tinh-5716710.html" target="_blank">Marathon trào lưu đẹp của những người trẻ ở Hà Tĩnh</a>
+
 ###### Một số hình ảnh tại giải Hà Tĩnh Half Back Yard – Wao Farm 2023
 
 <img src="../images/htmt-by-wf-2023-13.jpg" alt="Hà Tĩnh Half Back Yard – Wao Farm 2023" width="50%" height="50%">
