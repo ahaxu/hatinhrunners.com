@@ -3,7 +3,7 @@ title: BACKYARD ULTRA
 author: Văn Thuyết - HTMT
 tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, backyard ultra
 description: BACKYARD ULTRA 
-cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
+cover_image: https://hatinhrunners.com/images/htmt-by-wf-2023-1.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, backyard ultra
 ---
 
