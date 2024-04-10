@@ -3,7 +3,7 @@ title: THÔNG CÁO KIỆN TOÀN BAN QUẢN TRỊ HÀ TĨNH RUNNERS - VÌ HTR V�
 author: HTR(bot)
 tags: hatinhrunners.com, hà tĩnh runner
 description: THÔNG CÁO KIỆN TOÀN BAN QUẢN TRỊ HÀ TĨNH RUNNERS - VÌ HTR VỮNG MẠNH VÀ PHÁT TRIỂN
-cover_image: https://hatinhrunners.com/images/images/htr-bqt-2024.jpeg
+cover_image: https://hatinhrunners.com/images/htr-bqt-2024.jpeg
 keywords: hatinhrunners.com, hà tĩnh runner
 ---
 
