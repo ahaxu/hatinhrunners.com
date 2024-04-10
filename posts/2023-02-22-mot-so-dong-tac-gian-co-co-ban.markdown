@@ -1,7 +1,7 @@
 ---
 title: Một số động tác giãn cơ cơ bản - thực hiện sau khi tập xong bài.
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, giãn cơ, bài tập, HaTinhMarathonTeam
+author: HTR-HTMT
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, giãn cơ, bài tập
 description: Thở lúc chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, giãn cơ

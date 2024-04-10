@@ -1,7 +1,7 @@
 ---
 title: Trước ngày race & trên đường đua!
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, taper, VnExpressMarathonHue2023
+author: HTMT
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HTR-HTMT, taper, VnExpressMarathonHue2023
 description: Taper
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
@@ -128,9 +128,9 @@ Chúc các bạn race tốt, đạt mục tiêu đề ra, có PR và chén đư�
 
 ![](https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/340403694_192564356881233_539739237258227777_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=5FHH_kUSW-QAX-KTHTC&_nc_ht=scontent.fhan3-4.fna&oh=00_AfBbIzpZQbl3rS6tOG4U-D22D-A_ZHk4ZW4zwfv-oKfmnQ&oe=6437F81F){width=50%}
 
-#HTMT
+#HaTinhRunners
 
-#HaTinhMarathonTeam
+#HTR-HTMT
 
 #ChuanBiGiDiRace
 

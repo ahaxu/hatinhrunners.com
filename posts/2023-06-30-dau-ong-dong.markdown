@@ -1,7 +1,7 @@
 ---
 title: Đau ống đồng khi chạy bộ
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
 description: Đau ống đồng khi chạy bộ
 cover_image: https://www.achilles-running.de/wp-content/uploads/l%C3%A4uferin-mit-schmerzen.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, chấn thương trong chạy bộ
@@ -67,9 +67,9 @@ Copy vui lòng ghi rõ nguồn
 
 [Link bài viết trên FB HTMT](https://www.facebook.com/groups/1257424228218916/posts/1332387624055909/)
 
-#HaTinhMarathonTeam
+#HaTinhRunners
 
-#HTMT
+#HTR
 
 #KienThucChayBo
 

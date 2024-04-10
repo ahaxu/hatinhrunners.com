@@ -1,7 +1,7 @@
 ---
 title: Cách để chạy bộ đỡ nhàm chán hơn
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HTR-HTMT
 description: Cách để chạy bộ đỡ nhàm chán hơn
 cover_image: https://hatinhrunners.com/images/htmt-by-wf-2023-1.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
@@ -43,7 +43,6 @@ Chúc các bạn chạy đều đặn và không bị nhàm chán!
 
 Nguồn: sưu tầm, góp nhặt, và tổng hợp từ nhiều nguồn.
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HTR-HTMT
+#HaTinhRunners
 

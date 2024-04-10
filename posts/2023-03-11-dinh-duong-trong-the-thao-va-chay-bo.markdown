@@ -1,6 +1,6 @@
 ---
 title: Dinh dưỡng trong chạy bộ
-author: HTMT-Team
+author: HTR-HTMT
 tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, dinh dưỡng
 description: Dinh dưỡng trong chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
@@ -88,7 +88,8 @@ các anh chị em tập luyện thật tốt để có những thành tích cao 
 ![](https://nongthonvaphattrien.vn/uploads/images/2023/03/08/994c216efa1927477e089-1678239745.jpg){width=60%}
 
 
-#HTMT
+#HaTinhRunners
 
-#HaTinhMarathonTeam
+#HTR-HTMT
+
 

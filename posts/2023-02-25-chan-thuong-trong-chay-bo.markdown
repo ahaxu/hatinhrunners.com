@@ -1,10 +1,10 @@
 ---
 title: Chấn thương trong chạy bộ
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam
+author: HTR-HTMT
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
 description: Chấn thương trong chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
-keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, chấn thương trong chạy bộ
+keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, chấn thương trong chạy bộ
 ---
 
 Lôôôôô, a lô a lỗ, lại là Lãng tôi đây - hế hế 😃
@@ -85,9 +85,7 @@ Chú ý là chấn thương không chỉ là vấn đề của runner mới, mà
 
 - Website của team: [https://hatinhrunners.com/](https://hatinhrunners.com/)
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #ChanThuongTrongChayBo
 
