@@ -74,9 +74,7 @@ Tản mạn chút nha
 
 <img src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-6/334668501_590935396230935_2637690935097626584_n.jpg?stp=cp6_dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=O2XvLEL7sOAAX-bRQv-&_nc_ht=scontent.fsgn5-3.fna&oh=00_AfCovq2LQpuShz0pgxnYD2Sk2fA67SYgIDYhu37GUbprkw&oe=640D66BD" alt="repetition" width="50%" height="50%">
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #VnExpressMarathonHue2023
 

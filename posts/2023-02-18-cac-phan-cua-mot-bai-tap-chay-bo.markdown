@@ -1,7 +1,7 @@
 ---
 title: Các phần của một bài tập!!!
 author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, HaTinhMarathonTeam
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập
 description: Các phần của một bài tập!!!
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ
@@ -24,5 +24,5 @@ Thực tế mà nói, nếu chạy sáng thì trang phục, đồng hồ (pin), 
 6. Đăng bài lên nhóm:
     - Mục này hay bị nói là sống ảo, khoe khoang, nổ... nhưng đây cũng là một phần của bài tập. Mình đăng kết quả lên FB, và hỏi ý kiến anh chị em bạn bè, về sải chân, nhịp tim, guồng chân... thì những ý kiến góp ý, đa phần là có lợi.
 
-#HaTinhMarathonTeam.
+#HaTinhRunners
 #Niềm_vui_là_cả_quá_trình_tập_luyện.

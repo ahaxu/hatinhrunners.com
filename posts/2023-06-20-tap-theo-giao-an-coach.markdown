@@ -1,7 +1,7 @@
 ---
 title: Tập theo giáo án - coach
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
 description: Tập theo giáo án - coach
 cover_image: https://hatinhrunners.com/images/htmt-by-wf-2023-1.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, tập theo giáo án
@@ -54,13 +54,13 @@ Ai muốn tập luyện bài bản và chinh phục giới hạn bản thân th�
 
 P/s: Có đi ún beer đừng quên gọi Cốt, không là Cốt giận đó nha 😂😂😂
 
-Bài này là tài sản của HTMT. Do đó, mọi copy bài này vui lòng ghi rõ nguồn: HaTinh Marathon Team
+Bài này là tài sản của HTR-HTMT. Do đó, mọi copy bài này vui lòng ghi rõ nguồn: HTR-HaTinh Marathon Team
 
 [Link bài viết trên FB HTMT](https://www.facebook.com/groups/1257424228218916/posts/1327348554559816/)
 
-#HaTinhMarathonTeam
+#HaTinhRunners
 
-#HTMT
+#HTR
 
 #KienThucChayBo
 

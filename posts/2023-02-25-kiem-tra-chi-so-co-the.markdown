@@ -1,7 +1,7 @@
 ---
 title: Kiểm tra chỉ số cơ thể
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ,HaTinhMarathonTeam
+author: HTR-HTMT
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
 description: Kiểm tra chỉ số cơ thể
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
@@ -87,9 +87,7 @@ Vậy làm sao để biết mình BÉO hay trọng lượng cơ thể như thế
 
 **[=> Tổng hợp kiến thức về chạy bộ (Update liên tục)](https://hatinhrunners.com/tags/b%C3%A0i%20t%E1%BA%ADp.html)**
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #TyLeMoCoThe
 

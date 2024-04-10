@@ -2,12 +2,12 @@
 title: About
 ---
 
-## HATINH MARATHON TEAM là gì?
-- Một tập thể gồm nhiều anh chị em chăm chỉ tập luyện bài bản.
-- Có giáo án, có hướng dẫn để hướng tới đạt được mục tiêu đặt ra, phù hợp với từng nhóm đối tượng.
-- CÓ THU PHÍ 300K/ 1 năm
+## Giới thiệu về Hà Tĩnh Runners (HTR)
 
-##### Website
-- FB nhóm [https://www.facebook.com/groups/1257424228218916](https://www.facebook.com/groups/1257424228218916)
+Hà Tĩnh Runners (HTR), là nơi để mọi người cùng nhau học hỏi, chia sẻ, rèn luyện sức khoẻ, lan toả lối sống lành mạnh, đầy năng lượng tích cực. Vì một cộng đồng chạy bộ khoẻ mạnh và gắn kết.
+
+- FB nhóm [https://www.facebook.com/groups/htrhatinhrunners](https://www.facebook.com/groups/htrhatinhrunners)
+
 - Website được generated từ [https://github.com/ahaxu/hatinhrunners.com](https://github.com/ahaxu/hatinhrunners.com)
-- Mọi bài viết được contributed từ thành viên của **HATINH MARATHON TEAM**
+
+- Mọi bài viết được đóng góp từ thành viên của **Hà Tĩnh Runners**

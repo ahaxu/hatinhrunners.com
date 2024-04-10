@@ -1,7 +1,7 @@
 ---
 title: THỞ TRONG LÚC CHẠY BỘ!!!
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ, bài tập, HaTinhMarathonTeam
+author: HTR-HTMT
+tags: hatinhrunners.com, hà tĩnh runner, thở, chạy bộ, bài tập
 description: Thở lúc chạy bộ
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: thở trong lúc chạy bộ, chạy bộ, thở, hà tĩnh runners, bài tập
@@ -30,8 +30,6 @@ Lưu ý là chạy chậm mới dễ tập thở, chứ chạy nhanh thì **mồ
 Anh chị em thử tham khảo xem hiệu quả đến đâu nhé.
 
 **Thân ái,**
-
-**HTMT-Team!**
 
 p/s: ACE có thể xem thêm về cách hít vào thở ra từ chuyên gia **Andrew Huberman** [tại đây](https://youtu.be/msGKrclcsbc) nhé (nhớ bật phụ đề nếu cần ạ)
 

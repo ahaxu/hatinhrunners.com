@@ -35,8 +35,6 @@ Hãy **"Lắng nghe cơ thể"** để chúng ta có được sức khỏe **sun
 
 👉 Website nhóm: [https://hatinhrunners.com/](https://hatinhrunners.com/)
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #Rest

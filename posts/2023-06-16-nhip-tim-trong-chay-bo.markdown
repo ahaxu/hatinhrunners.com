@@ -1,7 +1,7 @@
 ---
 title: Nhịp tim trong chạy bộ
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HTR-HTMT
 description: Nhịp tim trong chạy bộ
 cover_image: https://hatinhrunners.com/images/htmt-by-wf-2023-1.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ
@@ -103,11 +103,10 @@ Mời các bác góp ý thêm để chia sẻ cho cộng đồng nhé.
 P/s:
 Còn nhiều yếu tố khác nữa mà mỏi tay quá, các bác xài tạm vậy.
 Quan trọng nhất vẫn là LẮNG NGHE CƠ THỂ
-Mọi chia sẻ (share) bài này vui lòng ghi rõ nguồn : Hatinh Marathon Team (HTMT)
+Mọi chia sẻ (share) bài này vui lòng ghi rõ nguồn : HTR-Hatinh Marathon Team (HTR-HTMT)
 
 [Link bài viết trên FB HTMT](https://www.facebook.com/groups/1257424228218916/posts/1325295401431798/)
 
-#HaTinhMarathonTeam
-#HTMT
+#HaTinhRunners
 #KienThucChayBo
 

@@ -1,7 +1,7 @@
 ---
 title: TRANG PHỤC – GIÀY/DÉP TRONG CHẠY BỘ
-author: HTMT-Team
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, kiến thức chạy bộ, HaTinhMarathonTeam
+author: HTR-HTMT
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, kiến thức chạy bộ 
 description: Cơ cấu hệ thống bài tập trong tuần
 cover_image: https://hatinhrunners.com/images/2023-02-11-htrs-intro.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, bài tập, kiến thức chạy bộ
@@ -96,9 +96,7 @@ Pê ếch: Lấy cái ảnh ni hồi chạy quả FM đầu đời 3h43 tại H�
 <img src="../images/2023-02-24-trang-phuc-chay-bo.jpeg" alt="beta reduction" width="50%" height="50%">
 
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #HTR
 

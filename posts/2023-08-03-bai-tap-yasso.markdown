@@ -1,7 +1,7 @@
 ---
 title: Bài tập YASSO
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, yasso
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, yasso
 description: bài tập yasso
 cover_image: https://hetgeheimvanhardlopen.nl/wp-content/uploads/2022/01/5.11-Yasso-power.png
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, yasso
@@ -59,15 +59,11 @@ Hình là bài tập Yasso hôm nay của Lãng. Cơ mà ko phải tập cho FM 
 
 P/s:
 
-Bản quyền bài thuộc về Hà Tĩnh Marathon team
+Bản quyền bài thuộc về HTR - Hà Tĩnh Marathon team
 
 Copy vui lòng ghi rõ nguồn
 
 [Link bài viết trên FB HTMT](https://www.facebook.com/groups/1257424228218916/permalink/1348872085740796/)
-
-#HaTinhMarathonTeam
-
-#HTMT
 
 #KienThucChayBo
 

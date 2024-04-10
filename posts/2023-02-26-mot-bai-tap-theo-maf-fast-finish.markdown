@@ -27,8 +27,6 @@ Mn có thể tham khảo cách tập này nhé. Khá hiệu quả vừa tập s�
 👉 Tổng hợp kiến thức cơ bản trong chạy bộ (Update liên tục):
 [https://m.facebook.com/groups/1257424228218916/permalink/1262682471026425/?mibextid=0cALme](https://m.facebook.com/groups/1257424228218916/permalink/1262682471026425/?mibextid=0cALme)
 
-#HTMT
-
-#HaTinhMarathonTeam
+#HaTinhRunners
 
 #BaseRun

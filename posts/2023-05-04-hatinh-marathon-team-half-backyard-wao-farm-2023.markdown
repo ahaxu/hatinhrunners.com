@@ -1,7 +1,7 @@
 ---
 title: Hà Tĩnh Half Back Yard – Wao Farm 2023
 author: HTMT
-tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HaTinhMarathonTeam, backyard ultra
+tags: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, HTR-HTMT, backyard ultra
 description: Hà Tĩnh Half Back Yard – Wao Farm 2023
 cover_image: https://hatinhrunners.com/images/htmt-by-wf-2023-1.jpg
 keywords: hatinhrunners.com, hà tĩnh runner, chạy bộ, kiến thức chạy bộ, backyard ultra
@@ -42,7 +42,7 @@ Các vđv có thể xem bảng xếp hạng, và lấy giấy chứng nhận ho�
 
 - [Google Drive](https://drive.google.com/drive/folders/1H8nDNHV589u3dnAO24DuKM26PHq9unyh)
 
-#HTMT
+#HTR-HTMT
 
-#HaTinhMarathonTeam
+#HaTinhRunners
 
