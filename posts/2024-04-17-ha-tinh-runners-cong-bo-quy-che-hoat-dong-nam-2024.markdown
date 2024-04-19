@@ -1,8 +1,8 @@
 ---
-title: HÀ TĨNH RUNNERS CÔNG BỐ QUY CHẾ HOẠT ĐỘNG NĂM 2024
+title: HÀ TĨNH RUNNERS CÔNG BỐ QUY CHẾ HOẠT ĐỘNG
 author: HTR(bot)
 tags: hatinhrunners.com, hà tĩnh runner
-description: HÀ TĨNH RUNNERS CÔNG BỐ QUY CHẾ HOẠT ĐỘNG NĂM 2024
+description: HÀ TĨNH RUNNERS CÔNG BỐ QUY CHẾ HOẠT ĐỘNG NĂM
 cover_image: https://hatinhrunners.com/images/htr-cover-2024.jpeg
 keywords: hatinhrunners.com, hà tĩnh runner
 ---
