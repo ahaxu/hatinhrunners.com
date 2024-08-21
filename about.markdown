@@ -6,6 +6,8 @@ title: About
 
 Hà Tĩnh Runners (HTR), là nơi để mọi người cùng nhau học hỏi, chia sẻ, rèn luyện sức khoẻ, lan toả lối sống lành mạnh, đầy năng lượng tích cực. Vì một cộng đồng chạy bộ khoẻ mạnh và gắn kết.
 
+- [Danh sách thành viên chính thức HTR](./danh-sach-tvct-htr.html)
+
 - FB nhóm [https://www.facebook.com/groups/htrhatinhrunners](https://www.facebook.com/groups/htrhatinhrunners)
 
 - Website được generated từ [https://github.com/ahaxu/hatinhrunners.com](https://github.com/ahaxu/hatinhrunners.com)
