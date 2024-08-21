@@ -35,6 +35,12 @@ main = hakyllWith config $ do
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
+    match (fromList ["danh-sach-tvct-htr.markdown"]) $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
+
     -- build up tags
     tags <- buildTags "posts/*" (fromCapture "tags/*.html")
     tagsRules tags $ \tag pattern -> do
