@@ -6,7 +6,7 @@ Source code for this site [https://hatinhrunners.com/](https://hatinhrunners.com
 
 ```
 stack install
-stack exec hatinhrunners.com watch
+stack exec hatinhrunners watch
 ```
 
 ## ship to github page
