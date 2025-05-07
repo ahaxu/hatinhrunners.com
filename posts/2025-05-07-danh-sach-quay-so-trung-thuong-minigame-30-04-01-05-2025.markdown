@@ -152,6 +152,10 @@ Dưới đây là danh sách các vận động viên đã được đánh số 
 <td style="border: 1px solid #ddd; padding: 8px;">32</td>
 <td style="border: 1px solid #ddd; padding: 8px;">Văn Thuyết</td>
 </tr>
+<tr style="background-color: #e6f7ff;">
+<td style="border: 1px solid #ddd; padding: 8px;">33</td>
+<td style="border: 1px solid #ddd; padding: 8px;">Lam Tan Thai</td>
+</tr>
 </table>
 
 HTR Power by Goya
