@@ -1,7 +1,24 @@
-<ul>
+<div class="post-list">
     $for(posts)$
-        <li>
-            <a href="$url$">$title$</a> - $date$
-        </li>
+        <div class="post-card">
+            <h3><a href="$url$">$title$</a></h3>
+            <div class="post-meta">
+                <i class="bi bi-calendar-event"></i>
+                <span>$date$</span>
+                $if(tags)$
+                    <span class="pace-indicator">
+                        <i class="bi bi-tags"></i>
+                        $tags$
+                    </span>
+                $endif$
+            </div>
+            $if(description)$
+                <p>$description$</p>
+            $endif$
+            <a href="$url$" class="btn">
+                <i class="bi bi-arrow-right"></i>
+                Đọc thêm
+            </a>
+        </div>
     $endfor$
-</ul>
+</div>

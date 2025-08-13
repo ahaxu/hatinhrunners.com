@@ -29,6 +29,10 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "js/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match (fromList ["about.markdown"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
@@ -44,12 +48,13 @@ main = hakyllWith config $ do
     -- build up tags
     tags <- buildTags "posts/*" (fromCapture "tags/*.html")
     tagsRules tags $ \tag pattern -> do
-      let title = "Bài viết cùng tag: \"" <> tag <> "\""
+      let title = "Tag: " <> tag
       route idRoute
       compile $ do
           posts <- recentFirst =<< loadAll pattern
           let ctx =
                 constField "title" title <>
+                constField "tag" tag <>
                 listField "posts" postCtx (return posts) <>
                 defaultContext
 
