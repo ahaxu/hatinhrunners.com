@@ -1,2 +1,16 @@
-$partial("templates/post-list.html")$
+<div class="tag-header">
+    <h1>🏷️ $title$</h1>
+    <p class="tag-description">Các bài viết cùng chủ đề "$tag$"</p>
+</div>
+
+<div class="tag-content">
+    $partial("templates/post-list.html")$
+</div>
+
+<div class="tag-footer">
+    <a href="/archive.html" class="btn btn-secondary">
+        <i class="bi bi-arrow-left"></i>
+        Xem tất cả bài viết
+    </a>
+</div>
 

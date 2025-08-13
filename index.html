@@ -3,18 +3,69 @@ title: Home
 isHome: true
 ---
 
-<h2>λ ~/bài viết mới</h2>
-$partial("templates/post-list.html")$
+<section class="latest-posts">
+    <h2>🏃‍♂️ Bài viết mới nhất</h2>
+    <p class="section-description">Khám phá những kiến thức mới nhất về chạy bộ, bài tập và kinh nghiệm từ cộng đồng Hà Tĩnh Runners</p>
+    $partial("templates/post-list.html")$
+</section>
 
-<h1>...</h1>
+<section class="featured-content">
+    <h2>⭐ Nội dung nổi bật</h2>
+    <div class="featured-grid">
+        <div class="featured-card">
+            <div class="featured-icon">🏃‍♀️</div>
+            <h3>Kiến thức chạy bộ</h3>
+            <p>Học hỏi từ những kinh nghiệm thực tế và kiến thức khoa học về chạy bộ</p>
+            <a href="/tags/kiến%20thức%20chạy%20bộ.html" class="btn btn-secondary">
+                <i class="bi bi-book"></i>
+                Khám phá
+            </a>
+        </div>
+        
+        <div class="featured-card">
+            <div class="featured-icon">💪</div>
+            <h3>Bài tập chạy bộ</h3>
+            <p>Hệ thống bài tập đa dạng từ cơ bản đến nâng cao cho mọi trình độ</p>
+            <a href="/tags/bài%20tập.html" class="btn btn-secondary">
+                <i class="bi bi-graph-up"></i>
+                Xem bài tập
+            </a>
+        </div>
+        
+        <div class="featured-card">
+            <div class="featured-icon">🏆</div>
+            <h3>Giải đấu & Sự kiện</h3>
+            <p>Thông tin về các giải đấu, sự kiện chạy bộ và hoạt động cộng đồng</p>
+            <a href="/archive.html" class="btn btn-secondary">
+                <i class="bi bi-calendar-event"></i>
+                Xem sự kiện
+            </a>
+        </div>
+    </div>
+</section>
 
-<h3>
-   λ ~/ xem thêm bài viết
-</h3>
-<a href="/archive.html">
-  <i class="bi bi-arrow-return-right"></i>
-  <i class="bi bi-yin-yang"></i>
-  <i class="bi bi-arrow-right-circle"></i>
-  <i class="bi bi-journal-code"></i>
-  <i class="bi bi-box-arrow-up-right"></i>
-</a>
+<section class="community-cta">
+    <div class="cta-content">
+        <h2>🚀 Tham gia cộng đồng Hà Tĩnh Runners</h2>
+        <p>Kết nối với những người có cùng đam mê chạy bộ, chia sẻ kinh nghiệm và cùng nhau phát triển</p>
+        <div class="cta-buttons">
+            <a href="https://www.facebook.com/groups/htrhatinhrunners" target="_blank" class="btn">
+                <i class="bi bi-facebook"></i>
+                Tham gia Facebook Group
+            </a>
+            <a href="/about.html" class="btn btn-secondary">
+                <i class="bi bi-info-circle"></i>
+                Tìm hiểu thêm
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="archive-section">
+    <h2>📚 Xem tất cả bài viết</h2>
+    <p>Khám phá kho tàng kiến thức chạy bộ với hơn 50 bài viết chất lượng</p>
+    <a href="/archive.html" class="btn btn-secondary">
+        <i class="bi bi-archive"></i>
+        Xem kho lưu trữ
+    </a>
+</section>
